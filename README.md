@@ -18,6 +18,11 @@ The final release workflow produces verifiable container artifacts for both **Do
 
 ## 🛠 Enhanced DevSecOps Strategy
 
+<div align="center">
+<img src="images/cicdenhanced/cicdenhanced.png" width="1000"/>
+</div>
+
+
 The enhanced pipeline is organized into three major implementation stages:
 
 1. **Commit Signing Setup**
